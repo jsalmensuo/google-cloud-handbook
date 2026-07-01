@@ -1,0 +1,59 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian-git-data/
+
+# Optional (only if plugins differ per machine)
+.obsidian/plugins/
+
+# Personal notes
+Project-*
+05*-*Personal/
+Day*Planners/
+Untitled*
+null*
+
+# Trash
+.trash/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Static site generators
+site/
+
+# Terraform (if you add it later)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
